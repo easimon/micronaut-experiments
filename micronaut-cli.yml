@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: click.dobel.micronaut
+testFramework: kotest
+sourceLanguage: kotlin
+buildTool: maven
+features: [annotation-api, app-name, cache-caffeine, http-client, kotest, kotlin, kotlin-application, logback, maven, netty-server, readme, shade, yaml]
